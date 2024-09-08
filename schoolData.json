@@ -1,0 +1,22 @@
+{
+  "NamaSekolah": "SMK ICB CINTA NIAGA BANDUNG",
+  "Alamat": "No.19B1, Jl. Pahlawan No.19, Cihaur Geulis, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40122",
+  "Telepon": "022-7103983 - 081221049998",
+  "Website": "www.smk-icb.vercel.app",
+  "TentangSekolah": "SMK adalah jenis pendidikan menengah yang fokus pada penerapan ilmu pengetahuan dan keterampilan praktis. SMK memiliki tujuan untuk menghasilkan lulusan yang siap bekerja dan memiliki keterampilan yang relevan dengan dunia industri. SMK memiliki keunggulan dalam pendekatan pembelajaran praktis, kurikulum yang disesuaikan dengan kebutuhan industri, dan berbagai pilihan jurusan. Lulusan SMK memiliki peluang karir yang baik dan juga dapat melanjutkan pendidikan ke jenjang yang lebih tinggi.SMK ICB Cinta Niaga jenis pendidikan SMK yang fokus di Bidang Keahlian Bisnis Manajemen serta Teknologi Informasi dan Komunikasi. Di SMK ICB Cinta Niaga siswa akan dididik untuk terampil,  tangguh, dan juga memiliki karakter positif yang kuat. Sebab SMK ICB Cinta Niaga akan menjamin siswanya aman dan nyaman selama bersekolah, serta mudah bekerja dan siap berwirausaha saat lulus nanti.SMK ICB Cinta Niaga akan menjadi solusi bagi kecemasan dan kebingungan orang tua saat menentukan pilihan sekolah lanjutan. Di SMK ICB Cinta Niaga orang tua akan tenang dan siswa akan senang. Maka, Selamat Datang di SMK ICB Cinta Niaga",
+  "Visi" : "Menjadi satuan pendidikan vokasi yang mampu membentuk generasi muda yang produktif, tangguh, dan berkarakter dalam mengembangkan industri sektor usaha mikro, kecil, dan menengah (UMKM) di Jawa Barat pada tahun 2027",
+  "Misi" : "1.Mendesain  kurikulum  satuan  pendidikan  yang  memuat  kompetensi-kompetensi esensial  yang dibutuhkan dunia industri sektor UMKM.2.Menjalin kemitraan dengan dunia industri, khususnya sektor UMKM.3.Menyelenggarakan layanan pendidikan yang memuaskan, khususnya layanan pendidikan praktik bidang kompetensi bisnis manajemen dan teknologi informasi.4.Meningkatkan kualitas kompetensi tenaga pendidik.5.Memberikan suplemen layanan pendidikan dalam meningkatkan kualitas daya tahan siswa di sisi mental dan spiritual.6.Memberikan ruang magang untuk peserta didik.7.Melakukan proses quality control (QC) terhadap lulusan",
+  "JumlahSiswa": "518",
+  "JumlahGuru": "28",
+  "Jurusan": ["Otomatisasi dan Data Tata kelola Perkantoran", "Pemasaran", "Akuntansi", "Rekayasa Perangkat Lunak"],
+  "teachers": [
+    {
+      "nama": "Bapak Joko",
+      "subject": "Matematika"
+    },
+    {
+      "nama": "Ibu Sari",
+      "subject": "Bahasa Inggris"
+    }
+  ]
+}
